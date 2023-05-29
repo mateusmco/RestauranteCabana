@@ -1,0 +1,166 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+       
+  }
+ 
+    
+
+.container {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+   width: 100%;
+    
+}
+
+header{
+    padding: 20px;
+    width: 100%;
+ 
+
+}
+
+.logo{
+    width: 15%;
+}
+.sociais{
+    width: 15%;
+    padding-left: 10px;
+}
+.menu{
+  width: 70%;
+  padding-left: 150px;
+}
+
+.menu nav a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-right: 93px;
+    text-decoration: none;
+}
+
+  
+
+  .s1 {  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 75px;
+    background-color: #fff;
+      
+   }
+   .s1texto h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+   }
+  
+  .s1texto p{
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+
+   
+   .s1img {  
+    height: 517px;
+   
+    
+   }
+  .s2{
+    padding: 50px 0;
+    gap: 50px;
+    height: auto; 
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+    flex-wrap: wrap;
+  }
+  
+   
+  
+  .s3 {  
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: white;
+  }
+
+.s3texto h1{
+ font-size: 60px;
+ margin-bottom: 20px;
+}
+
+.s3texto p{
+ font-size: 24px;
+ margin-bottom: 30px;
+}
+.s3img {  
+  height: 530px;
+}
+ 
+  .s4{
+    padding: 50px 0;
+    gap: 50px;
+    height: auto; 
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+    flex-wrap: wrap;
+  }
+ 
+  .s5{
+    height: 250px; 
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;   
+  }
+
+
+  
+  .s6{
+    width: 100%;
+    height: 250px; 
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #000000;
+    flex-wrap: wrap;
+ 
+  }
+  .s7{
+    width: 100%;
+    height: 250px; 
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    
+    justify-content: center;
+    
+  }
+
+.s7map{
+height: 200px;
+
+
+}
